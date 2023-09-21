@@ -1,4 +1,4 @@
-# Web Development Internship Projects - September 2023
+# Web Development Internship Projects -Spark Foundation 
 
 Welcome to my GitHub Repository showcasing my Web Development internship projects at The Sparks Foundation under the Graduate Rotational Internship Program of the September 2023 Batch.
 
