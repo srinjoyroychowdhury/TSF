@@ -19,7 +19,7 @@ Welcome to my GitHub Repository showcasing my Web Development internship project
 
 ### Task 2: Social Media Integration
 
-Social Media Integration is a web-based application project that allows users to seamlessly log in using diverse methods: Google, Facebook, GitHub, and OTF (One-Time Password), all powered by the robust Firebase Authentication. With a blend of HTML, CSS, and JavaScript magic, I've crafted a dynamic and intuitive login experience that adapts flawlessly to user preferences. It revolutionizes authentication, providing security and convenience in one package. Stay tuned for more updates on this exciting project!
+Social Media Integration is a web-based application project that allows users to seamlessly log in using diverse methods: Google, Facebook, GitHub, and OTP (One-Time Password), all powered by the robust Firebase Authentication. With a blend of HTML, CSS, and JavaScript magic, I've crafted a dynamic and intuitive login experience that adapts flawlessly to user preferences. It revolutionizes authentication, providing security and convenience in one package. Stay tuned for more updates on this exciting project!
 
 ## Conclusion
 
